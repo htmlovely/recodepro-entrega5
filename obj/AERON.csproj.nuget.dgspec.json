@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Remakker\\Desktop\\Ultima Entrega Individual\\VITORIA ENTREGAS\\quinta entrega\\AERON\\AERON.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Remakker\\Desktop\\Ultima Entrega Individual\\VITORIA ENTREGAS\\quinta entrega\\AERON\\AERON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\Ultima Entrega Individual\\VITORIA ENTREGAS\\quinta entrega\\AERON\\AERON.csproj",
+        "projectName": "AERON",
+        "projectPath": "C:\\Users\\Remakker\\Desktop\\Ultima Entrega Individual\\VITORIA ENTREGAS\\quinta entrega\\AERON\\AERON.csproj",
+        "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Remakker\\Desktop\\Ultima Entrega Individual\\VITORIA ENTREGAS\\quinta entrega\\AERON\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Remakker\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.424\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
